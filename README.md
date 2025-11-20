@@ -1,5 +1,1 @@
-Crg file is the file you are going to want to download. It has all the behavior for a stem center with basic information. Good starting point after you already learned a little about how you would go connecting basic strings in choregraphe.
-If you are going to use the file you will need to change some code in the workshop section to better aline with the workshops that will happen during that semester. 
-First double click to open code go to line 17 and chang the date part in year, month, day , hour, minute, second form but only have to change the date part not time.
-You will then have to go to line 30 and this will be what the robot is going to say so you should say the workshop and what it is going to offer. You will have to do this for evey box in the workshop section either deleting boxes if not needed or adding some if there are more. 
-You will also have to edit the speech rec and switch case to listen for the key words like the title of the workshop. You will also have to edit the workshop speech bubble that says the workshops that they could choose from. 
+All that is needed to download is the crg file that can then be accessed in choregraphe.
