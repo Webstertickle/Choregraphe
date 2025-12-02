@@ -1,2 +1,2 @@
 All that is needed to download is the crg file that can then be accessed in choregraphe.
-What is need to change is in google doc.
+Everything you need to change to get started is listed and explained in the google doc.
